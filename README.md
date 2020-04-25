@@ -1,2 +1,4 @@
 # SP_ProgLinaireTP
- Tp de Programmation Lineaire Université Paris Dauphine Excel + AMP 
+ Tp de Programmation Lineaire 
+ L3 Université Paris Dauphine MIDO
+ Excel + AMP
