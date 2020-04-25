@@ -1,3 +1,4 @@
+#Exercice 1
 var x{i in 1..2};
 maximize Profit: 100 * x[1] + 200* x[2];
 subject to R1: x[1] + x[2] <= 45;
