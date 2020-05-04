@@ -1,0 +1,10 @@
+set P := prod1, prod2;
+set R := R1, R2, R3;
+param b:=R1 30
+R2 15
+R3 24;
+param c :=prod1 2000 prod2 3000;
+param a:prod1 prod2 :=
+R1 1 6
+R2 2 2
+R3 4 1;	
